@@ -1,0 +1,295 @@
+Case #,Year,Date,Country,State,Description,Deaths,Tesla driver,Tesla occupant,Other vehicle,Cyclists/ Peds,TSLA+cycl / peds,Model,Autopilot claimed,Verified Tesla Autopilot Deaths,Verified Tesla Autopilot Deaths + All Deaths Reported to NHTSA SGO,Unnamed: 16,Unnamed: 17,Source,Note,Deceased 1,Deceased 2,Deceased 3,Deceased 4,Date_parsed
+294.0,2022.0,1/17/2023, USA ,CA, Tesla crashes into back of semi ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20230118162813/https://www.vvng.com/driver-of-tesla-killed-after-slamming-into-back-of-semi-truck-in-victorville/ ,,,,,,2023-01-17
+293.0,2022.0,1/7/2023, Canada ,-, Tesla crashes ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20230109041434/https://canadatoday.news/bc/video-a-fatal-accident-closes-the-fraser-highway-in-the-murrayville-neighborhood-of-langley-9-117454/ ,, Taren Singh Lal ,,,,2023-01-07
+292.0,2022.0,1/7/2023, USA ,WA," Tesla hits pole, catches on fire ",1.0,,1.0,,,1.0, - ,,,,,, https://web.archive.org/web/20230107232745/https://www.thenewstribune.com/news/local/article270899982.html ,,,,,,2023-01-07
+291.0,2022.0,12/22/2022, USA ,GA, Tesla crashes and burns ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20221222203930/https://wfxl.com/news/local/man... ,,,,,,2022-12-22
+290.0,2022.0,12/19/2022, Canada ,-, Tesla crashes into storefront ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20221223203725/https://www.thesuburban.com/news/west_island_news... ,,,,,,2022-12-19
+289.0,2022.0,12/18/2022, USA ,CA, Tesla hit two other cars ,1.0,,1.0,,,, - ,,,,,, https://web.archive.org/web/20221219025408/https://www.abc10.com/article/news/l... ,,,,,,2022-12-18
+288.0,2022.0,12/17/2022, USA ,CA, Tesla hits pedestrian on highway ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20221220054727/https://www.ksbw.com/article/chp... ,,,,,,2022-12-17
+287.0,2022.0,12/11/2022, USA ,CA, Tesla crashes into wall ,1.0,1.0,,,,, - ,,,,,, https://web.archive.org/web/20221213060612/https://mynewsla.com/crime/2022/12/12... ,, Clarissa Lewis ,,,,2022-12-11
+286.0,2022.0,12/11/2022, USA ,MO, Collision at intersection ,1.0,,,1.0,,, - ,,,,,, https://www.ky3.com/2022/12/04/springfield-police-identify-woman-who-died... ,, Rita Deckard ,,,,2022-12-11
+285.0,2022.0,12/6/2022, Canada ,-," Tesla veers, collides with truck ",1.0,1.0,,,,, - ,,,,,, https://www.tvanouvelles.ca/2022/12/05/une-femme-perd-la-vie-au-volant-de-sa-tesla-a-alma ,,,,,,2022-12-06
+284.0,2022.0,11/28/2022, China ,-," Tesla runs red light, collides with two cars ",2.0,,,2.0,,, Y ,,,,,, https://web.archive.org/web/20221201065037/https://www.carscoops.com/2022/11/another-speedin... ,,,,,,2022-11-28
+283.0,2022.0,11/27/2022, USA ,CA," Tesla careens off road, hits trees ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20221127191022/https://www.mercurynews.com/2022/11/... ,,,,,,2022-11-27
+282.0,2022.0,11/26/2022, USA ,AR, Tesla hits pedestrian ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20221201055652/https://www.nwahomepage.com/news/71-year-old-bentonville-man-dies-after-hit-by-vehicle/ ,, Donald McLaughlin ,,,,2022-11-26
+281.0,2022.0,11/18/2022, China ,-, Tesla crashes into dump truck ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20221120105724/https://www.breakinglatest.news/... ,,,,,,2022-11-18
+280.0,2022.0,11/12/2022, Mexico ,-, Tesla hits Toyota ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20221112163911/https://www.elnuevodia.com/noticias/... ,, Carlos Manuel Fuentes Rodríguez ,,,,2022-11-12
+279.0,2022.0,11/12/2022, USA ,CA, Multi-vehicle accident ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20221113202115/https://www.villagenews.com/story... ,,,,,,2022-11-12
+278.0,2022.0,11/11/2022, USA ,CA," Tesla hits wall, catches fire ",1.0,,1.0,,,, - ,1.0,,,,, https://web.archive.org/web/20221111234459/https://www.cbsnews.com/losangeles/news/... ,,,,,,2022-11-11
+277.0,2022.0,11/5/2022, China ,-, Out of control Tesla hits bicyclist and motorcyclist ,2.0,,,1.0,1.0,1.0, - ,,,,,, https://web.archive.org/web/20221113202525/https://www.reuters.com/business/autos-... ,,,,,,2022-11-05
+276.0,2022.0,11/4/2022, USA ,IL," Collision at intersection, Tesla driver dies in hospital ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20221119044327/https://www.lakemchenryscanner.com/2022/11/18... ,, Charles Dietz Jr. ,,,,2022-11-04
+275.0,2022.0,10/19/2022, USA ,CA, Multicar crash ,1.0,1.0,,,,1.0,  1 ,,,,,, https://web.archive.org/web/20221020201801/https://www.kget.com/traffic/1-dead... ,,,,,,2022-10-19
+274.0,2022.0,10/18/2022, USA ,FL," Tesla collides with minivan, engulfed by flames ",4.0,1.0,1.0,2.0,,2.0, - ,,,,,, https://web.archive.org/web/20221020002232/https://www.wptv.com/news/treasure-coast/region-... ,,,,,,2022-10-18
+273.0,2022.0,10/12/2022, UK ,-, Tesla crashes into ditch ,1.0,1.0,,,,1.0,  2 ,,,,,, https://web.archive.org/web/20221013123559/https://www.northantstelegraph.co.uk... ,,,,,,2022-10-12
+272.0,2022.0,10/9/2022, USA ,CA, Tesla hits concrete block ,1.0,,1.0,,,1.0, - ,,,,,, https://web.archive.org/web/20221010045055/https://kion546.com/news/2022... ,,,,,,2022-10-09
+271.0,2022.0,10/1/2022, USA ,FL, Tesla hits tree and catches fire ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20221001225631/https://www.mysuncoast.com/2022/10... ,,,,,,2022-10-01
+270.0,2022.0,9/18/2022, USA ,SC," Tesla crashes into tree, ignites ",2.0,1.0,1.0,,,2.0, - ,,,,,, https://archive.ph/eVnc8 ,,,,,,2022-09-18
+269.0,2022.0,9/18/2022, USA ,MD, Multi-car accident ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220919011338/https://www.wmar2news.com/ne... ,, Sandra Lorena Morales De Arevala ,,,,2022-09-18
+268.0,2020.0,9/16/2022, USA ,GA," Tesla loses control and crashes into bus shelter, kills man inside ",1.0,,,,1.0,1.0, - ,1.0,,,,, https://web.archive.org/web/20220817115235/https://www.ajc.com/news/1-dead-... ,,,,,,2022-09-16
+267.0,2022.0,9/13/2022, USA ,CA, Tesla runs off highway ,1.0,1.0,,,,1.0, - ,,,,,, https://www.youtube.com/watch?v=EN93IXNTBtk ,, Jeff Robertson ,,,,2022-09-13
+266.0,2022.0,9/12/2022, USA ,NY," Tesla runs off road, catches fire ",1.0,1.0,,,,, - ,,,,,, https://www.nyspnews.com/state-police-are-investigation-one-car-fatal-motor-vehicle-accient-on-county-route-5-town-dickinson.htm , Received confirmation from family friend that it was a Tesla , Michael J. Irrera ,,,,2022-09-12
+265.0,2022.0,9/7/2022, USA ,CA, Motorcycle collides with Tesla ,1.0,1.0,,,,, - ,,,,,, https://archive.ph/qp3oz ,,,,,,2022-09-07
+264.0,2022.0,8/30/2022, USA ,CA, Tesla hits motorcycle ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220909100041/https://www.cbsnews.com/sanfrancisco/... ,,,,,,2022-08-30
+263.0,2022.0,8/26/2022, USA ,FL, Tesla hits motorcycle ,1.0,,,1.0,,,  3 ,,1.0,1.0,,, https://web.archive.org/web/20220826192806/https://bocanewsnow.com/2022/... ,, Ingrid Noon ,,,,2022-08-26
+262.0,2022.0,8/24/2022, USA ,MA, Motorcyclist hits Tesla ,1.0,,,1.0,,, - ,,,,,, https://archive.ph/LIuuq ,,,,,,2022-08-24
+261.0,2022.0,8/23/2022, USA ,SC, Multi-car accident on highway ,2.0,,,2.0,,,  3 ,,2.0,2.0,,, https://web.archive.org/web/20221019005507/https://www.wbtw.com/news/state... ,,,,,,2022-08-23
+260.0,2022.0,8/21/2022, UK ,-," Car drives thru garage, hits Tesla, lands on railroad tracks ",1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220822181849/https://www.telegraph... ,,,,,,2022-08-21
+259.0,2022.0,8/20/2022, USA ,FL," Tesla swerves, runs off roadway, overturns ",1.0,1.0,,,,1.0, S ,,,,,, https://web.archive.org/web/20220822002546/https://www.wflx.com/2022/08/21... ,, Guy Ludgy Barbancourt ,,,,2022-08-20
+258.0,2022.0,8/20/2022, USA ,FL, Pedestrian hit in road ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220820202436/https://www.clickorlando.com/tra... ,,,,,,2022-08-20
+257.0,2022.0,8/16/2022, Germany ,-," Tesla car crashes into tree, burns ",3.0,,,,,3.0, - ,,,,,, https://web.archive.org/web/20220820195541/https://www.tag24.de/nachrichten... ,,,,,,2022-08-16
+256.0,2022.0,8/14/2022, USA ,CA, Tesla veers into oncoming traffic ,4.0,1.0,3.0,,,4.0, - ,,,,,, https://web.archive.org/web/20220820182847/https://www.ksbw.com/article/hol... ,,,,,,2022-08-14
+255.0,2022.0,8/14/2022, Finland ,-, Unlicensed driver hits pedestrian ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220820195407/https://yle.fi/uutiset/3-1257678... ,,,,,,2022-08-14
+254.0,2022.0,8/2/2022, USA ,FL, Man in wheelchair hit crossing road ,1.0,,,,1.0,1.0,  3 ,,,,,, https://web.archive.org/web/20220817110831/https://www.wfla.com/news/man-in... ,,,,,,2022-08-02
+253.0,2022.0,7/27/2022, Canada ,-, Tesla hits cyclist ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220815224835/https://viewpointvancouver.ca/20... ,, Sarah Lutgens ,,,,2022-07-27
+252.0,2022.0,7/27/2022, USA ,ME, Tesla crashes at high speed ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817110830/https://www.boothbayregister.com... ,, James Pener ,,,,2022-07-27
+251.0,2022.0,7/24/2022, USA ,UT, Tesla hits motorcycle ,1.0,,,1.0,,,  3 ,1.0,1.0,1.0,,, https://web.archive.org/web/20220817110830/https://www.ksl.com/article/5044... ,, Landon Embry ,,,,2022-07-24
+250.0,2022.0,7/16/2022, USA ,PA, Tesla goes airborne and crashes ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817110830/https://www.wpxi.com/news/local/... ,, Douglas David Rockacy ,,,,2022-07-16
+249.0,2022.0,7/12/2022, China ,-, Out of control Tesla hits pedestrians ,2.0,,,,2.0,2.0, Y ,,,,,, https://web.archive.org/web/20220817110831/https://whatchinareads.com/artic... ,,,,,,2022-07-12
+248.0,2022.0,7/8/2022, USA ,CA, 3-car accident involving Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817110916/https://fox5sandiego.com/traffic... ,,,,,,2022-07-08
+247.0,2022.0,7/8/2022, USA ,HA, Motorcycle crashes into Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817110831/https://www.staradvertiser.com/2... ,, Jeremy Caballero ,,,,2022-07-08
+246.0,2022.0,7/7/2022, USA ,CA, Motorcycle hit by Tesla ,1.0,,,1.0,,, Y ,1.0,1.0,1.0,,, https://web.archive.org/web/20220817110830/https://www.msn.com/en-us/autos/... ,, Marvin Walker ,,,,2022-07-07
+245.0,2022.0,7/6/2022, USA ,FL, Tesla hits parked tractor-trailer ,2.0,1.0,1.0,,,2.0, - ,2.0,2.0,2.0,,, https://web.archive.org/web/20220817111255/https://mycbs4.com/news/... ,,,,,,2022-07-06
+244.0,2022.0,7/5/2022, USA ,GA," Tesla strikes pole, burns ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817111312/https://www.11alive.com/article/... ,,,,,,2022-07-05
+243.0,2022.0,6/26/2022, USA ,CA, Tesla drives into opposite lane ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817110848/https://www.sacramentoinjuryatto... ,, Mike Vargas Sr. ,,,,2022-06-26
+242.0,2022.0,6/20/2022, USA ,AL, Tesla crashes into car ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817110831/https://www.wkrg.com/mobile-coun... ,, Kaleb D. Dawson ,,,,2022-06-20
+241.0,2022.0,6/20/2022, USA ,PA, Tesla hit and run ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817110832/https://www.nbcphiladelphia.com/... ,,,,,,2022-06-20
+240.0,2022.0,6/20/2022, Canada ,-, Tesla runs into overpass ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817110830/https://montreal.ctvnews.ca/high... ,,,,,,2022-06-20
+239.0,2022.0,6/19/2022, USA , MI ," Tesla hits telephone pole, ignites ",2.0,1.0,1.0,,,2.0, - ,,,,,, https://www.uppermichiganssource.com/2021/06/19/2-dead-after-1-car-crash-marquette-county-road-550/ ,," Candice Marie Rajala, ", Eric Joseph Roycroft ,,,2022-06-19
+238.0,2022.0,6/17/2022, USA , CA , Head-on collision ,2.0,1.0,1.0,,,2.0, - ,,,,,, https://web.archive.org/web/20220817110830/https://www.kget.com/news/crime-... ,, James Clinton Davies , Alex Francisco Cuesta ,,,2022-06-17
+237.0,2022.0,6/14/2022, USA , CA , Tesla moves into opposite lane and head-on crashes ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817111253/https://www.turnto23.com/news/lo... ,, Peggy K. Agaplou ,,,,2022-06-14
+236.0,2022.0,6/13/2022, USA , CA , Two-car collision ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817111306/https://www.latimes.com/socal/da... ,,,,,,2022-06-13
+235.0,2022.0,6/7/2022, USA , CA , DUI crash ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817111343/https://www.sandiegouniontribune... ,,,,,,2022-06-07
+234.0,2022.0,6/3/2022, USA , NV , Motorcycle crashes into Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817111252/https://www.reviewjournal.com/lo... ,,,,,,2022-06-03
+233.0,2022.0,5/28/2022, USA , NY , Tesla DUI crash ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817111305/https://www.timesunion.com/news/... ,, Katryn R. Fisher ,,,,2022-05-28
+232.0,2022.0,5/28/2022, USA , OR , Tesla loses control and crashes into car ,2.0,1.0,,1.0,,1.0, Y ,,,,,, https://web.archive.org/web/20220531173206/https://www.koin.com/news/crashe... ,, Fredrick Scheffler II , Kyle Rieger ,,,2022-05-28
+231.0,2022.0,5/28/2022, USA , CA , Speeding tesla crashes into tree ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817111345/https://www.nytimes.com/2022/05/... ,,,,,,2022-05-28
+230.0,2022.0,5/25/2022, USA , OR , Tesla crashes into pole ,1.0,,1.0,,,1.0, S ,,,,,, https://web.archive.org/web/20220817111704/https://katu.com/news/local/pass... ,, Koelby Edlund ,,,,2022-05-25
+229.0,2022.0,5/23/2022, USA , AZ , Tesla driver hit in multicar accident ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817111344/https://ktar.com/story/5071099/c... ,,,,,,2022-05-23
+228.0,2022.0,5/21/2022, China ,-, Tesla hits pedestrian ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817111359/https://transitjam.com/2022/05/2... ,, Ms. Au ,,,,2022-05-21
+227.0,2022.0,5/19/2022, USA , NJ ," Tesla hits trees, ignites ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817111406/https://www.nj.com/cumberland/20... ,, Daniel Sincavage ,,,,2022-05-19
+226.0,2022.0,5/19/2022, USA , NJ , Multiple car crash on highway ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817111343/https://www.rlsmedia.com/article... ,, David M. Baum ,,,,2022-05-19
+225.0,2022.0,5/18/2022, USA , CA , Tesla hits pedestrian ,1.0,,,,1.0,1.0,  3 ,1.0,,1.0,,, https://web.archive.org/web/20220817111726/https://www.facebook.com/CHPCAPI... ,,,,,,2022-05-18
+224.0,2022.0,5/17/2022, USA , CO , Fiery crash ,1.0,1.0,,,,1.0,  3 ,1.0,,1.0,,, https://web.archive.org/web/20220815212600/https://api.nhtsa.gov/complaints... ,,,,,,2022-05-17
+223.0,2022.0,5/12/2022, Australia ,-, Tesla hit pedestrian who dies 5 days later from injuries ,1.0,,,,1.0,1.0, X ,,,,,, https://web.archive.org/web/20220817112042/https://thewest.com.au/news/fata... ,,,,,,2022-05-12
+222.0,2022.0,5/11/2022, USA , CA , Tesla smashes into construction equipment ,3.0,1.0,2.0,,,3.0, S ,1.0,,,,, https://web.archive.org/web/20220817111727/https://www.pressdemocrat.com/ar... ,, Wayne Walter Swanson Jr. , Crystal McCallum , Andrew James Chaves ,,2022-05-11
+221.0,2022.0,5/7/2022, USA , UT , Tesla DUI involving another vehicle ,2.0,,,2.0,,, - ,,,,,, https://web.archive.org/web/20220817111705/https://www.abc4.com/news/local-... ,, Joseph Lucero , Sarina Astorga ,,,2022-05-07
+220.0,2022.0,5/1/2022, USA , PA , Tesla DUI hits pedestrian ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817112847/https://twitter.com/KeeleyFox29/... ,,,,,,2022-05-01
+219.0,2022.0,4/29/2022, USA , NC ," Highway accident, Tesla goes airborne  ",1.0,1.0,,,,, - ,,,,,, https://web.archive.org/web/20220817111656/https://www.cbs17.com/news/local... ,,,,,,2022-04-29
+218.0,2022.0,4/14/2022, USA ,FL, Crash with motorcycle ,1.0,,,1.0,,, Y ,1.0,,1.0,,, https://www.youtube.com/watch?time_continue=8&v=H8B0pX8TSOk&feature=emb_logo&ab_channel=ChuckCook ,,,,,,2022-04-14
+217.0,2022.0,4/10/2022, UK ,-, Two car accident ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817111707/https://www.hertsad.co.uk/news/t... ,,,,,,2022-04-10
+216.0,2022.0,4/8/2022, Netherlands ,-, Head-on collision with truck and Tesla ,1.0,,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817111705/https://myprivacy.dpgmedia.nl/co... ,,,,,,2022-04-08
+215.0,2022.0,3/26/2022, USA , CA ," DUI crash on highway, Tesla catches fire ",1.0,,,,,1.0, - ,1.0,,1.0,,, https://web.archive.org/web/20220817111737/https://www.eastbaytimes.com/202... ,,,,,,2022-03-26
+214.0,2022.0,3/21/2022, USA , CA , Three car collision involving Tesla ,2.0,,,2.0,,, - ,,,,,, https://web.archive.org/web/20220817111732/https://kion546.com/news/2022/03... ,,,,,,2022-03-21
+213.0,2022.0,3/20/2022, USA , CA , Car crosses double yellow and crashes with a Tesla ,2.0,1.0,,1.0,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817112043/https://sfist.com/2022/03/23/dri... ,, Ruiju Ma , Madyson James ,,,2022-03-20
+212.0,2022.0,3/14/2022, USA , CA , Tesla collides into rail on highway ,2.0,1.0,1.0,,,1.0, - ,,,,,, https://web.archive.org/web/20220817112546/https://www.dailybulletin.com/20... ,, Jose Elizarraraz Bravo , Luis Elizarraraz Bravo ,,,2022-03-14
+211.0,2022.0,3/14/2022, USA , FL , Tesla crash that ends in fire ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113049/https://wsvn.com/news/local/driv... ,,,,,,2022-03-14
+210.0,2022.0,3/13/2022, Switzerland ,-, Frontal collision between Tesla and VW ,1.0,,,1.0,,1.0, - ,,,,,, https://web.archive.org/web/20220817114126/https://www.20min.ch/story/schwe... ,,,,,,2022-03-13
+209.0,2022.0,3/12/2022, USA , NY , Tesla ignites on parkway ,1.0,1.0,,,,1.0, S ,,,,,, https://web.archive.org/web/20220817113049/https://patch.com/new-york/newci... ,,,,,,2022-03-12
+208.0,2022.0,3/7/2022, China ,-," Tesla on Autopilot hits maintenance car, then BMW hits responder ",1.0,,,,1.0,1.0, - ,1.0,,,,, https://web.archive.org/web/20220817113258/https://autos.udn.com/autos/stor... ,, Yu Nan ,,,,2022-03-07
+207.0,2022.0,3/7/2022, USA , CA , Car found overturned in a ravine ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817112128/https://www.ktvu.com/news/myster... ,, Christopher Liang ,,,,2022-03-07
+206.0,2022.0,3/5/2022, USA , CA , Tesla crashes head on with other car ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817112211/https://kion546.com/news/2022/03... ,,,,,,2022-03-05
+205.0,2022.0,2/28/2022, USA , ID , Car found in water-swollen ditch ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817112548/https://www.wthr.com/article/new... ,,,,,,2022-02-28
+204.0,2022.0,2/27/2022, USA , MO , Tesla breaksdown in traffic and causes pile-up ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113101/https://www.autoevolution.com/ne... ,, Terry L. Siegel ,,,,2022-02-27
+203.0,2022.0,2/12/2022, USA , CA , Tesla crashes into a tree ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113108/https://abc7.com/woodland-hills-... ,,,,,,2022-02-12
+202.0,2022.0,2/7/2022, USA , FL ," Tesla loses control, hits pole, ignites ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817112853/https://www.wfla.com/news/traffi... ,,,,,,2022-02-07
+201.0,2022.0,1/16/2022, USA , CA , Three-car collision near intersection ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817112615/https://gum.criteo.com/syncframe... ,,,,,,2022-01-16
+200.0,2022.0,1/1/2022, USA , CA , Motorcyclist crashes into Tesla ,1.0,,,1.0,,, X ,,,,,, https://web.archive.org/web/20220102071418/https://www.vvng.com/sb-i-15-shu... ,,,,,,2022-01-01
+199.0,2022.0,1/1/2022, USA , CA , Single-collision on onramp ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817112847/https://www.kron4.com/news/bay-a... ,,,,,,2022-01-01
+198.0,2021.0,12/31/2021, USA , CA , Tesla crashes into trees ,2.0,1.0,1.0,,,2.0, - ,,,,,, https://web.archive.org/web/20220817113053/https://news24-680.com/2021/12/3... ,,,,,,2021-12-31
+197.0,2021.0,12/28/2021, USA , CA , Multi-crash involving DUI ,1.0,,,1.0,,, - ,1.0,,1.0,,, https://web.archive.org/web/20220817112848/https://kesq.com/news/2021/12/28... ,,,,,,2021-12-28
+196.0,2021.0,12/24/2021, China ,-, Tesla loses control and drives into river ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113109/https://www.breakinglatest.news/... ,,,,,,2021-12-24
+195.0,2021.0,12/18/2021, USA , CA , Multi-car accident ,1.0,,,1.0,,, Y ,,,,,, https://web.archive.org/web/20220817113258/https://www.mercurynews.com/2021... ,, Mitchell Moreno Jr. ,,,,2021-12-18
+194.0,2021.0,12/11/2021, France ,-, Crash in public area including 20 injuries ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817113015/https://www.bbc.com/news/world-e... ,,,,,,2021-12-11
+193.0,2021.0,12/7/2021, USA , AZ , Vehicular collision ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113015/https://www.12news.com/article/n... ,,,,,,2021-12-07
+192.0,2021.0,12/7/2021, Germany ,-," Tesla crashes into trees, flames erupt ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113406/https://www.bz-berlin.de/branden... ,, Armin W. ,,,,2021-12-07
+191.0,2021.0,12/2/2021, China ,-, Motorbiker killed by Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817113111/https://www.scmp.com/news/hong-k... ,,,,,,2021-12-02
+190.0,2021.0,12/1/2021, USA , CA ," Collision with pole, battery ignited ",1.0,1.0,,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817113330/https://www.cbsnews.com/losangel... ,,,,,,2021-12-01
+189.0,2021.0,11/29/2021, USA , CA , DUI crash with parked car ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817113102/https://www.cbsnews.com/sanfranc... ,,,,,,2021-11-29
+188.0,2021.0,11/15/2021, USA , CA , Pedestrian hit at crosswalk ,1.0,,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113112/https://fox5sandiego.com/traffic... ,,,,,,2021-11-15
+187.0,2021.0,11/8/2021, USA , AZ , Three car collision ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817113111/https://www.12news.com/article/n... ,,,,,,2021-11-08
+186.0,2021.0,11/8/2021, USA , OH ," Tesla hits fixture, catches fire ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113349/https://www.fox19.com/2021/11/08... ,,,,,,2021-11-08
+185.0,2021.0,11/6/2021, USA , NV , DUI crash ,1.0,,1.0,,,1.0, Y ,,,,,, https://web.archive.org/web/20220817113120/https://www.8newsnow.com/news/lo... ,,,,,,2021-11-06
+184.0,2021.0,11/4/2021, USA , FL , Tesla hits bicyclist before crashing ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817113537/https://www.wtsp.com/amp/article... ,,,,,,2021-11-04
+183.0,2021.0,10/28/2021, USA , GA , Multi-collision event on highway ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817113351/https://news.yahoo.com/state-pat... ,,,,,,2021-10-28
+182.0,2021.0,10/15/2021, USA , AZ , Toyota hits Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817113331/https://gcmaz.com/kaff-news/kaff... ,,,,,,2021-10-15
+181.0,2021.0,9/17/2021, USA , IA , Three-way car collision ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817113541/https://www.kcrg.com/2021/09/15/... ,,,,,,2021-09-17
+180.0,2021.0,9/13/2021, USA , FL ," Tesla suffers suspension failure, hits tree, and ignites on fire ",2.0,1.0,1.0,,,2.0,  3 ,,,,,, https://web.archive.org/web/20220817113350/https://www.local10.com/news/loc... ,,,,,,2021-09-13
+179.0,2021.0,9/4/2021, China ,-, Tesla hit pedestrian crossing road ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817113300/https://twitter.com/ton_aarts/st... ,,,,,,2021-09-04
+178.0,2021.0,9/4/2021, USA , FL ," Tesla runs stop sign, crashes into house ",2.0,,1.0,,1.0,2.0, S ,,,,,, https://web.archive.org/web/20220817113541/https://www.wfla.com/news/pinell... ,,,,,,2021-09-04
+177.0,2021.0,8/29/2021, USA , NY ," Car hits utility pole, ignites ",2.0,1.0,1.0,,,2.0,  3 ,,,,,, https://web.archive.org/web/20220817113701/https://www.hudsonvalley360.com/... , Contacted by close friend who disclosed the car was a Tesla. Awaiting further confirmation. , Kyle Germann  , Robert G. Bailly ,,,2021-08-29
+176.0,2021.0,8/26/2021, Netherlands ,-, Tesla hits tree ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113345/https://www.msn.com/nl-nl/nieuws... ,,,,,,2021-08-26
+175.0,2021.0,8/25/2021, USA , AZ , Tesla runs a red light and hits another car ,3.0,,,3.0,,, - ,,,,,, https://web.archive.org/web/20220817113431/https://www.abc15.com/news/regio... ,, Ariyanna Parsad , Jazmine Marquez , Kiyvon Martin ,,2021-08-25
+174.0,2021.0,8/17/2021, USA , PA , Tesla crashes into guardrail ,1.0,1.0,,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817113743/https://www.ncnewsonline.com/new... ,,,,,,2021-08-17
+173.0,2021.0,7/26/2021, Netherlands ,-," Four vehicle collision, Tesla catches fire ",1.0,,,,,, - ,,,,,, https://web.archive.org/web/20220817113556/https://www.telegraaf.nl/nieuws/... ,,,,,,2021-07-26
+172.0,2021.0,7/26/2021, USA , NY , Pedestrian hit on shoulder ,1.0,,,,1.0,1.0, - ,1.0,1.0,1.0,,, https://web.archive.org/web/20220817113540/https://www.cbsnews.com/newyork/... ,, Jean Louis ,,,,2021-07-26
+171.0,2021.0,7/23/2021, USA , GA , Tesla Driver loses control and hits median barrier ,1.0,1.0,,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817113558/https://www.ajc.com/news/traffic... ,,,,,,2021-07-23
+170.0,2021.0,7/21/2021, USA , GA , Tesla driver hits man on shoulder of highway ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817113830/https://www.yahoo.com/entertainm... ,,,,,,2021-07-21
+169.0,2021.0,7/7/2021, USA , CA , Other driver dies in head-on collision ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817113830/https://www.pe.com/2021/07/07/mo... ,,,,,,2021-07-07
+168.0,2021.0,6/29/2021, USA , CA ," Car crashes into Tesla, fire breaks out ",2.0,1.0,,1.0,,1.0, - ,,,,,, https://web.archive.org/web/20220817113844/https://www.latimes.com/californ... ,,,,,,2021-06-29
+167.0,2021.0,6/19/2021, USA , MI ," Tesla hits power pole, runs off road, and ignites ",2.0,1.0,1.0,,,2.0, - ,,,,,, https://web.archive.org/web/20220817113530/https://www.uppermichiganssource... ,,,,,,2021-06-19
+166.0,2021.0,6/16/2021, USA , FL ," Tesla crashes, driver later dies in hospital ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113715/https://www.google.com/url?q=htt... ,,,,,,2021-06-16
+165.0,2021.0,6/16/2021, Denmark ,-," Driver loses control of car, crashes into tree ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113750/https://www.berlingske.dk/samfun... ,,,,,,2021-06-16
+164.0,2021.0,6/11/2021, USA , WA , Tesla crashes through backyard fence ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113841/https://www.krem.com/article/new... ,,,,,,2021-06-11
+163.0,2021.0,6/11/2021, USA , NY , Driver crashes into senior living facility ,1.0,,1.0,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113704/https://www.nydailynews.com/new-... ,,,,,,2021-06-11
+162.0,2021.0,6/1/2021, USA , WA ," Tesla hits concrete barrier, later catches on fire ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113728/https://account.bellinghamherald... ,, Samuel James Morson ,,,,2021-06-01
+161.0,2021.0,5/26/2021, USA , VA , Tesla involved in multi-car highway accident ,4.0,,,4.0,,, - ,,,,,, https://web.archive.org/web/20220817114521/https://www.nbcnews.com/news/us-... ,,,,,,2021-05-26
+160.0,2021.0,5/15/2021, China ,-, Tesla hits police officers and kills one ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817113856/https://www.globaltimes.cn/page/... ,,,,,,2021-05-15
+159.0,2021.0,5/7/2021, China ,-, Tesla runs into back of truck ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817113834/https://www.globaltimes.cn/page/... ,,,,,,2021-05-07
+158.0,2021.0,5/5/2021, USA , CA , Multi-event collision with truck on highway ,1.0,1.0,,,,1.0, - ,1.0,,,,, https://web.archive.org/web/20220817114117/https://apnews.com/article/calif... ,,,,,,2021-05-05
+157.0,2021.0,4/17/2021, USA , TX ," Tesla crashes into tree, bursts into fire ",2.0,,,,,2.0, S ,2.0,,,,, https://web.archive.org/web/20220817114126/https://www.foxbusiness.com/life... ,, William Varner , Everette Talbot ,,,2021-04-17
+156.0,2021.0,4/17/2021, China ,-, Tesla hits concrete barrier and spontaneously combusts ,1.0,,1.0,,,1.0, - ,,,,,, https://web.archive.org/web/20220817114130/https://finance.sina.cn/tech/202... ,,,,,,2021-04-17
+155.0,2021.0,4/16/2021, France ,-, Tesla crashes into tree with 5 occupants ,2.0,,,,,2.0, - ,,,,,, https://web.archive.org/web/20220817114707/https://www.leprogres.fr/faits-d... ,,,,,,2021-04-16
+154.0,2021.0,4/14/2021, USA , TX , Head-on collision involving a Tesla ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817114138/https://www.statesman.com/story/... ,,,,,,2021-04-14
+153.0,2021.0,4/13/2021, Germany ,-," Tesla goes off road, hits a tree, and bursts into flames ",1.0,1.0,,,,1.0, S ,,,,,, https://web.archive.org/web/20220817114406/https://www.focus.de/regional/me... ,,,,,,2021-04-13
+152.0,2021.0,4/3/2021, USA , PA ," Tesla loses control, hits railing and cut in half ",2.0,1.0,1.0,,,2.0, - ,,,,,, https://web.archive.org/web/20220817114406/https://www.citizensvoice.com/ne... ,, Crystal Stash , Henry H. Abrahams ,,,2021-04-03
+151.0,2021.0,4/1/2021, China ,-," Driver hit traffic island, Tesla catches on fire ",1.0,1.0,,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817114404/https://taiwanenglishnews.com/te... ,,,,,,2021-04-01
+150.0,2021.0,3/21/2021, UK ,-," Pedestrian hit in collision, later dies in hospital weeks later ",1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817114408/https://www.gloucestershirelive.... ,,,,,,2021-03-21
+149.0,2021.0,3/20/2021, Belgium ,-," Driver runs over curb, loses control and hit pole ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817114432/https://myprivacy.dpgmedia.be/co... ,,,,,,2021-03-20
+148.0,2021.0,3/13/2021, UK ,-, Tesla crashes into stationary van ,1.0,,,1.0,,,  3 ,,,,,, https://web.archive.org/web/20220817114704/https://www.bucksfreepress.co.uk... ,,,,,,2021-03-13
+147.0,2021.0,3/10/2021, USA , CA ," Tesla crashes into tree, occupants killed ",2.0,1.0,1.0,,,1.0, - ,,,,,, https://web.archive.org/web/20220817114454/https://www.ocregister.com/2021/... ,,,,,,2021-03-10
+146.0,2021.0,3/7/2021, USA , OH , 3 car collision near intersection ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817114437/https://www.tribtoday.com/news/l... ,,,,,,2021-03-07
+145.0,2021.0,2/22/2021, USA , CA , High speed crash into telephone poll ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817114705/https://www.youtube.com/watch?v=... ,,,,,,2021-02-22
+144.0,2021.0,1/22/2021, USA , AZ ," Tesla crashes into tree, occupants killed ",2.0,1.0,1.0,,,2.0, - ,,,,,, https://web.archive.org/web/20220817114533/https://www.azcentral.com/story/... ,,,,,,2021-01-22
+143.0,2021.0,1/21/2021, USA , CO ," Tesla hits car and car crashes, driver later dies ",1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817114531/https://www.kktv.com/2021/01/20/... ,,,,,,2021-01-21
+142.0,2021.0,1/15/2021, USA , FL ," Head-on collision involving a Tesla, other driver dies ",1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817114531/https://www.actionnewsjax.com/ne... ,,,,,,2021-01-15
+141.0,2021.0,1/10/2021, USA , UT ," Car collides with Tesla, both drivers die ",2.0,1.0,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817114711/https://www.deseret.com/utah/202... ,,,,,,2021-01-10
+140.0,2020.0,12/18/2020, Portugal ,-, Tesla driver crashes into pole and dies in resulting fire ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817114702/https://www.jn.pt/local/noticias... ,,,,,,2020-12-18
+139.0,2020.0,12/11/2020, USA , FL ," Pedestrians hit and run by Tesla, one died from injuries ",1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817115009/https://nbc-2.com/news/local/202... ,,,,,,2020-12-11
+138.0,2020.0,12/9/2020, South Korea ,-," Car goes out of control and crashes into a wall, ignites ",1.0,,1.0,,,1.0, X ,1.0,,,,, https://web.archive.org/web/20220817114815/https://lawtalknews.co.kr/3072... ,, Yoon Hong-geun ,,,,2020-12-09
+137.0,2020.0,12/4/2020, USA , CA ," Car loses control, goes airborne, hits telephone pole ",1.0,,1.0,,,1.0, - ,,,,,, https://web.archive.org/web/20220817114701/https://www.fox13news.com/news/c... ,, Kevin Gallardo  ,,,,2020-12-04
+136.0,2020.0,11/16/2020, USA , MO , Five-vehicle pileup involving truck ,1.0,,,1.0,,, Y ,,,,,, https://web.archive.org/web/20220817114710/https://ksisradio.com/kc-woman-f... ,,,,,,2020-11-16
+135.0,2020.0,10/31/2020, USA , CA ," Car hit by a Tesla, driver later died from injuries ",1.0,,,1.0,,, Y ,,,,,, https://web.archive.org/web/20220817114721/https://www.10news.com/news/loca... ,,,,,,2020-10-31
+134.0,2020.0,10/10/2020, USA , CA , Motorcyclist died after rear-ending a Tesla ,1.0,,,1.0,,, Y ,,,,,, https://web.archive.org/web/20220817114813/https://mynewsla.com/life/2020/1... ,, Matthew Hathaway ,,,,2020-10-10
+133.0,2020.0,10/7/2020, Belgium ,-," Driver going wrong direction hits Tesla, driver later dies ",1.0,,,1.0,,,  3 ,,,,,, https://web.archive.org/web/20220817114834/https://www.sudinfo.be/id263566/... ,,,,,,2020-10-07
+132.0,202.0,9/17/2020, USA , GA ," Car loses control, hits bus shelter ",1.0,,,,1.0,1.0,  3 ,1.0,,1.0,,, https://web.archive.org/web/20221117074935/https://www.cobbcounty.org/... ,,,,,,2020-09-17
+131.0,2020.0,9/12/2020, USA , CA ," Car lands on Tesla, other vehicle driver dies ",1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817114837/https://fox5sandiego.com/news/lo... ,,,,,,2020-09-12
+130.0,2020.0,9/6/2020, USA , IL ," Tesla runs thru red light, crashes, driver dies at scene ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817114809/https://www.dailyherald.com/news... ,,,,,,2020-09-06
+129.0,2020.0,9/5/2020, China ,-," Tesla crashes into crowd, 2 dead and several injured ",2.0,,,,2.0,2.0, X ,,,,,, https://web.archive.org/web/20220817115028/https://www.globaltimes.cn/conte... ,,,,,,2020-09-05
+128.0,2020.0,8/24/2020, USA , VA ," Two car collision at intersection, other driver dies afterwards ",1.0,,,1.0,,, X ,,,,,, https://web.archive.org/web/20220815212556/https://www.loudountimes.com/new... ,,,,,,2020-08-24
+127.0,2020.0,8/13/2020, Germany ,-, Tesla crashes into tree ,1.0,1.0,,,,1.0, X ,1.0,,,,, https://web.archive.org/web/20220817115107/https://www.mopo.de/hamburg/poli... ,,,,,,2020-08-13
+126.0,2020.0,8/12/2020, USA , CA , Tesla hits two cars along exit ramp & catches fire ,2.0,1.0,1.0,,,1.0, - ,1.0,,,,, https://web.archive.org/web/20220817114835/https://www.mercurynews.com/2020... ,, David Alan Brown ,,,,2020-08-12
+125.0,2020.0,8/2/2020, USA , CA ," Tesla crashes into tree, ignites, kills driver and passenger ",2.0,1.0,1.0,,,1.0, - ,,,,,, https://web.archive.org/web/20220817114837/https://www.vcstar.com/story/new... ,,,,,,2020-08-02
+124.0,2020.0,7/18/2020, USA , UT ," Tesla races other car, other car crashes ",1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20201004080801/sanpetemessenger.com/archives/18... ,,,,,,2020-07-18
+123.0,2020.0,6/23/2020, USA , GA , Vehicle collides with Tesla at intersection ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817115224/https://www.ajc.com/news/crime--... ,,,,,,2020-06-23
+122.0,2020.0,6/21/2020, Germany ,-," Tesla veers into other lane, crashes into oncoming car ",3.0,,,3.0,,,  3 ,1.0,,,,, https://web.archive.org/web/20220817115020/https://www.freiepresse.de/drei-... ,, Claudia Günther , Frau Sarah , Claudias Mutter Sylvia ,,2020-06-21
+121.0,2020.0,6/17/2020, Canada ,-, Motorcyclist killed in crash with Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817115236/https://www.northdeltareporter.c... ,,,,,,2020-06-17
+120.0,2020.0,6/8/2020, Netherlands ,-, Driver has heart attack and crashes Tesla ,1.0,1.0,,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817115242/https://112hm.nl/2020/06/08/auto... ,,,,,,2020-06-08
+119.0,2020.0,5/25/2020, USA , CA , Tesla goes off cliff and later found ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817115234/https://www.sfgate.com/news/baya... ,,,,,,2020-05-25
+118.0,2020.0,5/14/2020, USA , CA , Two-car collision ,1.0,,,1.0,,,  3 ,1.0,,1.0,,, https://web.archive.org/web/20210117060156/https://www.newsopi.com/2020/05/... ,, Gary Marchi ,,,,2020-05-14
+117.0,2020.0,5/5/2020, USA , CA , Drunk driver strikes Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817115315/https://www.sfgate.com/news/baya... ,,,,,,2020-05-05
+116.0,2020.0,5/4/2020, Norway ,-, Tesla strikes and kills a man standing next to his truck ,1.0,,,1.0,,, S ,1.0,1.0,1.0,,, https://web.archive.org/web/20220817115315/https://www.motor.no/autopilot-n... ,,,,,,2020-05-04
+115.0,2020.0,4/24/2020, Netherlands ,-," Tesla runs off road, crashes, catches fire ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817115250/https://www.gld.nl/nieuws/244669... ,,,,,,2020-04-24
+114.0,2020.0,4/3/2020, Taiwan ,-, Tesla rolls over and catches on fire ,1.0,1.0,,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817115238/https://www.ddcar.com.tw/blogs/a... ,,,,,,2020-04-03
+113.0,2020.0,4/1/2020, USA , OH , Tesla drive off road into tree ,1.0,1.0,,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817115248/https://www.nbc4i.com/news/local... ,,,,,,2020-04-01
+112.0,2020.0,3/8/2020, USA , GA , Motorcyclist rear ends Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817115513/https://www.ajc.com/news/crime--... ,, Zachary Stringer ,,,,2020-03-08
+111.0,2020.0,3/4/2020, Netherlands ,-, Three car collision ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20211224225452/https://112vechtdal.nl/page/Nieu... ,,,,,,2020-03-04
+110.0,2020.0,2/24/2020, USA , CA , Driver dies as Tesla goes down embankment ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817115525/https://www.marinij.com/2020/02/... ,, Norma Jean Nixon ,,,,2020-02-24
+109.0,2020.0,2/24/2020, Canada ,-, Tesla drives off cliff ,3.0,1.0,2.0,,,3.0,  3 ,,,,,, https://web.archive.org/web/20211224225454/https://vancouversun.com/news/lo... ,, Mike Cochlin , Liam Cochlin , Quinn Cochlin ,,2020-02-24
+108.0,2020.0,1/31/2020, USA , FL , Nissan in front of Tesla loses control ,1.0,,,1.0,,,  3 ,,,,,, https://web.archive.org/web/20220817120039/https://www.winknews.com/2020/01... ,, Arthur Henry Oliver ,,,,2020-01-31
+107.0,2020.0,1/26/2020, USA , NJ , Tesla crashes into car at toll booth ,1.0,,,1.0,,, X ,,,,,, https://web.archive.org/web/20220817120052/https://www.plainsite.org/docket... ,, Vladmir Chen ,,,,2020-01-26
+106.0,2020.0,1/21/2020, Germany ,-, Sudden unintended acceleration kills store patron ,1.0,,,,1.0,1.0, S ,,,,,, https://web.archive.org/web/20220817115515/https://www.ln-online.de/der-nor... ,,,,,,2020-01-21
+105.0,2020.0,1/19/2020, Taiwan ,-," Tesla t-bones sedan, kills pedestrian ",1.0,,,,1.0,1.0, X ,,,,,, https://web.archive.org/web/20220817115320/https://tw.appledaily.com/local/... ,, Zhang ,,,,2020-01-19
+104.0,2020.0,1/18/2020, USA , CA ," Tesla strikes sign, burns ",1.0,1.0,,,,1.0, S ,,,,,, https://web.archive.org/web/20220817115312/https://abc7news.com/tesla-crash... ,,,,,,2020-01-18
+103.0,2020.0,1/5/2020, USA , UT ," Tesla runs red, strikes car, burns ",2.0,,,2.0,,, - ,,,,,, https://web.archive.org/web/20220817115312/https://www.deseret.com/utah/202... ,, Sarina Astorga ,,,,2020-01-05
+102.0,2020.0,1/4/2020, USA , FL , Tesla strikes Mercury ,1.0,,,1.0,,,  3 ,,,,,, https://web.archive.org/web/20220817115514/https://www.news-press.com/story... ,, Augustina Lillie ,,,,2020-01-04
+101.0,2019.0,12/29/2019, USA , IN , Tesla rear ends parked fire truck ,1.0,,1.0,,,1.0,  3 ,1.0,1.0,1.0,,, https://web.archive.org/web/20220817115512/https://static.nhtsa.gov/odi/inv... ,, Jenna Monet ,,,,2019-12-29
+100.0,2019.0,12/29/2019, USA , CA , Tesla runs red light after exiting freeway ,2.0,,,2.0,,, S ,2.0,2.0,2.0,,, https://web.archive.org/web/20220817115512/https://www.latimes.com/business... ,, Maria Guadalupe Nieves , Gilberto Alcazar Lopez  ,,,2019-12-29
+99.0,2019.0,12/23/2019, Slovenia ,-, Drunk driver strikes Tesla ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817115516/https://www.vecer.com/kronika/za... ,,,,,,2019-12-23
+98.0,2019.0,12/19/2019, USA , FL , Police SUV strikes Tesla ,2.0,1.0,1.0,,,2.0, - ,,,,,, https://web.archive.org/web/20220817115513/https://www.wtsp.com/article/new... ,, Charles Barancik ,,,,2019-12-19
+97.0,2019.0,12/11/2019, USA , CA , Tesla strikes turning Lexus ,1.0,,,1.0,,, X ,,,,,, https://web.archive.org/web/20220817115545/https://www.10news.com/news/loca... ,,,,,,2019-12-11
+96.0,2019.0,12/10/2019, USA , NV , Kia rear ends Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817115522/https://www.8newsnow.com/news/lo... ,,,,,,2019-12-10
+95.0,2019.0,12/1/2019, USA , TX , Struck Ford veers into Tesla's lane ,2.0,,,2.0,,, - ,,,,,, https://web.archive.org/web/20220817115522/https://www.fox44news.com/news/l... ,,,,,,2019-12-01
+94.0,2019.0,11/24/2019, Taiwan ,-," Tesla strikes divider, driver falls to death ",1.0,1.0,,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817115524/https://taiwanenglishnews.com/dr... ,,,,,,2019-11-24
+93.0,2019.0,11/22/2019, USA , CA , Tire strikes Tesla ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817115551/https://patch.com/california/san... ,,,,,,2019-11-22
+92.0,2019.0,11/21/2019, USA , CA , Tesla kills pedestrian ,1.0,,,,1.0,1.0, S ,,,,,, https://web.archive.org/web/20220817115548/http://teslaspacex.trendolizer.c... ,, Emelio Perez ,,,,2019-11-21
+91.0,2019.0,11/20/2019, Austria ,-, Tesla strikes impact attenuator ,1.0,1.0,,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817115535/https://www.tt.com/artikel/16287... ,,,,,,2019-11-20
+90.0,2019.0,11/20/2019, USA , FL , Tesla turns into oncoming traffic ,1.0,1.0,,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817115536/https://www.wptv.com/news/region... ,, Robert Krottner ,,,,2019-11-20
+89.0,2019.0,11/20/2019, USA , CA , Tesla in multi vehicle crash ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817115604/https://www.kron4.com/news/bay-a... ,,,,,,2019-11-20
+88.0,2019.0,11/14/2019, Germany ,-, Tesla kills pedestrian ,1.0,,,,1.0,1.0,  3 ,,,,,, https://web.archive.org/web/20220817115600/https://www.rtl.de/cms/tesla-unf... ,,,,,,2019-11-14
+87.0,2019.0,11/10/2019, USA , FL , Wrong way driver strikes Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817115802/https://www.orlandosentinel.com/... ,,,,,,2019-11-10
+86.0,2019.0,11/7/2019, USA , CA , Two car collision ,1.0,,,1.0,,,  3 ,,,,,, https://web.archive.org/web/20220817115544/https://www.cbsnews.com/losangel... ,,,,,,2019-11-07
+85.0,2019.0,11/1/2019, Norway ,-, Three car collision ,1.0,,,,,, S ,,,,,, https://web.archive.org/web/20220817115730/https://www.nettavisen.no/nyhete... ,, Nina Mogster ,,,,2019-11-01
+84.0,2019.0,10/19/2019, USA , PA ," Man thrown from vehicle, struck by Tesla ",1.0,,,1.0,,, X ,1.0,,1.0,,, https://web.archive.org/web/20220817115624/https://www.dailyitem.com/news/l... ,, Joan Fernando Valerio Jimenez ,,,,2019-10-19
+83.0,2019.0,10/17/2019, Germany ,-, Tesla turns into oncoming motorcyclist ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817115655/https://www.idowa.de/inhalt.nied... ,,,,,,2019-10-17
+82.0,2019.0,10/12/2019, USA , CA ," Wrong way driver strikes Tesla, Tesla burns ",1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817115556/https://onscene.tv/chino-hills-o... ,,,,,,2019-10-12
+81.0,2019.0,9/22/2019, USA , NV , Tesla runs red light ,1.0,,,1.0,,,  3 ,,,,,, https://web.archive.org/web/20220817115729/https://www.reviewjournal.com/lo... ,,,,,,2019-09-22
+80.0,2019.0,9/17/2019, USA , FL , Tesla into oncoming traffic ,1.0,1.0,,,,1.0, - ,1.0,,,,, https://web.archive.org/web/20220817115627/https://www.orlandosentinel.com/... , AP claimed in NHTSA complaint ,,,,,2019-09-17
+79.0,2019.0,9/11/2019, USA , OH , Subaru strikes Tesla ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817115741/https://www.wkyc.com/article/new... ,, Marjorie Hill ,,,,2019-09-11
+78.0,2019.0,9/11/2019, USA , VA , Tesla kills motorcyclist ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20211224225454/https://fcpdnews.wordpress.com/2... ,, Wayne Marbury ,,,,2019-09-11
+77.0,2019.0,9/8/2019, USA , CA , Honda rear ends Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817115741/https://www.mercurynews.com/2019... ,,,,,,2019-09-08
+76.0,2019.0,9/7/2019, USA , PA ," Tesla drives through T intersection, into woods ",1.0,,1.0,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817115836/https://www.post-gazette.com/loc... ,, Daniel J. Rodkey ,,,,2019-09-07
+75.0,2019.0,9/1/2019, Germany ,-, Tesla into oncoming traffic ,2.0,,,2.0,,, - ,,,,,, https://web.archive.org/web/20220817115802/https://www.n-tv.de/wirtschaft/T... ,,,,,,2019-09-01
+74.0,2019.0,8/24/2019, USA , CA , Tesla rear ends Ford ,1.0,,,1.0,,,  3 ,1.0,1.0,1.0,,, https://web.archive.org/web/20220817115818/https://www.nytimes.com/2021/07/... ,,,,,,2019-08-24
+73.0,2019.0,8/15/2019, Germany ,-, Tesla kills motorcyclist ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817115744/http://www.wiesbadenaktuell.de/s... ,,,,,,2019-08-15
+72.0,2019.0,7/21/2019, USA , DE ," Tesla drives into office building, kills occupant ",1.0,,,,1.0,1.0,  3 ,,,,,, https://web.archive.org/web/20220817115756/http://firststateupdate.com/2019... ,, Kaity West ,,,,2019-07-21
+71.0,2019.0,7/21/2019, USA , CA , Tesla kills pedestrian ,1.0,,,,1.0,1.0,  3 ,,,,,, https://web.archive.org/web/20220820195912/https://www.loudountimes.com/new... ,,,,,,2019-07-21
+70.0,2019.0,7/13/2019, USA , CA , Tesla kills pedestrian ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817115850/https://www.ocregister.com/2019/... ,,,,,,2019-07-13
+69.0,2019.0,7/8/2019, USA , IA , Car drifts into Tesla's lane ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817115850/https://www.desmoinesregister.co... ,,,,,,2019-07-08
+68.0,2019.0,6/30/2019, USA , CA , Single car crash near Menifee ,1.0,1.0,,,,1.0,  3 ,1.0,,,,, https://web.archive.org/web/20220817115910/https://www.riverdavesplace.com/... , Case ID: 91121642 ,,,,,2019-06-30
+67.0,2019.0,6/7/2019, Ukraine ,-, Tesla strikes construction vehicle ,1.0,,1.0,,,1.0, X ,,,,,, https://web.archive.org/web/20220817115901/https://autogeek.com.ua/na-trass... ,,,,,,2019-06-07
+66.0,2019.0,6/4/2019, USA , CA , Six vehicle crash ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817115908/https://www.pe.com/2019/06/04/fa... ,, Janet Genao ,,,,2019-06-04
+65.0,2019.0,5/31/2019, USA , CA , Tesla rear ends Ford ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817120048/https://www.mercurynews.com/2019... ,,,,,,2019-05-31
+64.0,2019.0,4/30/2019, Spain ,-, Car drifts into Tesla's lane ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817115843/https://www.carscoops.com/2019/0... ,,,,,,2019-04-30
+63.0,2019.0,4/25/2019, USA , FL , Tesla kills pedestrian ,1.0,,,,1.0,1.0, S ,1.0,1.0,1.0,,, https://web.archive.org/web/20220817115905/https://amp.miamiherald.com/news... ,,,,,,2019-04-25
+62.0,2019.0,4/15/2019, USA , CA , Tesla strikes on-ramp curb ,1.0,,1.0,,,1.0, - ,,,,,, https://web.archive.org/web/20220817115921/https://www.nbclosangeles.com/ne... ,,,,,,2019-04-15
+61.0,2019.0,3/18/2019, Canada ,-," Tesla strikes pole, burns ",1.0,1.0,,,,1.0, X ,,,,,, https://web.archive.org/web/20220817115913/https://bc.ctvnews.ca/driver-dea... ,,,,,,2019-03-18
+60.0,2019.0,3/10/2019, USA , FL , BMW strikes Tesla ,1.0,,1.0,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817115920/https://www.sun-sentinel.com/loc... ,,,,,,2019-03-10
+59.0,2019.0,3/1/2019, USA , FL , Autopilot into 18 wheeler ,1.0,1.0,,,,1.0,  3 ,1.0,1.0,1.0,,, https://web.archive.org/web/20220817120155/https://electrek.co/2019/03/01/t... ,,,,,,2019-03-01
+58.0,2019.0,2/24/2019, USA , FL ," Tesla crashes into tree, burns ",1.0,1.0,,,,1.0, S ,,,,,, https://web.archive.org/web/20220817120158/https://www.local10.com/news/201... ,, Omar Awan ,,,,2019-02-24
+57.0,2019.0,2/18/2019, USA , CA , Tesla rear ends stopped car ,1.0,1.0,,,,1.0, S ,,,,,, https://web.archive.org/web/20220817120146/https://twitter.com/CaliforniaBr... ,,,,,,2019-02-18
+56.0,2019.0,1/30/2019, Holland ,-, Driver mistakenly believes Autopilot is on ,1.0,,,1.0,,, S ,1.0,,,,, https://web.archive.org/web/20220817120400/https://linkeddata.overheid.nl/f... ,,,,,,2019-01-30
+55.0,2018.0,12/30/2018, USA , VA ," Early morning, single car collision ",1.0,1.0,,,,1.0,  3 ,,,,,, https://web.archive.org/web/20220817120153/https://www.legacy.com/us/obitua... , Car model confirmed in personal correspondence , Rod Rhines ,,,,2018-12-30
+54.0,2018.0,12/26/2018, USA , NH , Burned in New Ipswich crash ,1.0,,1.0,,,1.0, X ,,,,,, https://web.archive.org/web/20220817120237/https://www.ledgertranscript.com... ,,,,,,2018-12-26
+53.0,2018.0,11/15/2018, Denmark ,-, Tesla into oncoming traffic ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817120204/https://www.tvmidtvest.dk/hernin... ,,,,,,2018-11-15
+52.0,2018.0,11/10/2018, USA , FL , Tesla kills motorcyclist ,1.0,,,1.0,,, X ,,,,,, https://web.archive.org/web/20220817120159/https://www.ocala.com/story/news... ,,,,,,2018-11-10
+51.0,2018.0,11/9/2018, USA , CA , Tesla crashes into tree ,2.0,,2.0,,,2.0, S ,,,,,, https://web.archive.org/web/20190728223857/https://attorneysfortheinjured.c... ," John Renner, investigation #18119-2207 ",,,,,2018-11-09
+50.0,2018.0,10/26/2018, Canada ,-, Tesla drives off road ,1.0,,1.0,,,1.0, S ,,,,,, https://web.archive.org/web/20220817120340/https://www.cbc.ca/news/canada/m... ,, James Accurso ,,,,2018-10-26
+49.0,2018.0,9/21/2018, USA , CA , Single car collision in Anaheim on SR-91 ,1.0,1.0,,,,1.0, S ,,,,,, https://web.archive.org/web/20220817120147/https://twitter.com/TotalTraffic... ,,,,,,2018-09-21
+48.0,2018.0,9/15/2018, Japan ,-, Tesla rear ends stopped car ,2.0,,,2.0,,, X ,,,,,, https://web.archive.org/web/20220817120148/https://blog.goo.ne.jp/carintell... ,,,,,,2018-09-15
+47.0,2018.0,8/4/2018, Holland ,-, Tesla crashes into tree ,1.0,,1.0,,,1.0, S ,,,,,, https://web.archive.org/web/20220817120203/https://www.gld.nl/nieuws/232130... ,,,,,,2018-08-04
+46.0,2018.0,7/24/2018, USA , MO , Concrete falls on Tesla ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817120318/https://www.dailymail.co.uk/news... ,,,,,,2018-07-24
+45.0,2018.0,5/20/2018, USA , CA , Tesla drives into pond ,1.0,1.0,,,,1.0, S ,,,,,, https://web.archive.org/web/20220817120426/https://www.nbcbayarea.com/news/... ,, Keith Leund ,,,,2018-05-20
+44.0,2018.0,5/10/2018, Switzerland ,-," Tesla drives into median, burns ",1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817120500/https://www.thelocal.ch/20180515... ,,,,,,2018-05-10
+43.0,2018.0,5/8/2018, USA , FL , Two teens trapped in burning Tesla ,2.0,1.0,1.0,,,2.0, S ,,,,,, https://web.archive.org/web/20220817120457/https://www.abc.net.au/news/2018... ,, Edgar Martinez , Barrett Riley ,,,2018-05-08
+42.0,2018.0,4/29/2018, Japan ,-, Sleeping Tesla driver kills motorcyclist ,1.0,,,1.0,,, X ,1.0,1.0,1.0,,, https://web.archive.org/web/20220817120610/https://www.carscoops.com/2020/0... ,,,,,,2018-04-29
+41.0,2018.0,4/28/2018, USA , OH , Ohio prom night crash ,1.0,,1.0,,,1.0, S ,,,,,, https://web.archive.org/web/20220817120455/https://www.journal-news.com/new... ,,,,,,2018-04-28
+40.0,2018.0,3/23/2018, USA , CA , Autopilot into highway barrier ,1.0,1.0,,,,1.0, - ,1.0,1.0,1.0,,, https://web.archive.org/web/20220817120445/https://www.theguardian.com/tech... ,, Walter Huang ,,,,2018-03-23
+39.0,2018.0,3/12/2018, China ,-, Tesla kills pedestrian ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20180312053226/http://www.atimes.com/article/fi... ,,,,,,2018-03-12
+38.0,2018.0,3/12/2018, Norway ,-, Sudden unintended acceleration into wall ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817120455/https://www.reddit.com/r/teslamo... ,,,,,,2018-03-12
+37.0,2017.0,11/22/2017, Switzerland ,-, Tesla rear ends stopped car ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817120447/https://www.blick.ch/schweiz/zue... ,,,,,,2017-11-22
+36.0,2017.0,11/14/2017, Australia ,-, Tesla kills cyclist ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817120500/https://www.dailymail.co.uk/news... ,,,,,,2017-11-14
+35.0,2017.0,9/24/2017, USA , TN , Tesla drives off road ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20190406164855/https://www.wkrn.com/news/deadly... ," Twitter search for ""Cruzelite"" and ""Tesla"" confirms Joel owned a Tesla. Also had a TMC account. ", Joel Michael ,,,,2017-09-24
+34.0,2017.0,8/13/2017, USA , AZ , Tesla kills motorcyclist ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817120505/https://www.fox10phoenix.com/new... ,, Greg Dolphin ,,,,2017-08-13
+33.0,2017.0,7/21/2017, USA , AZ , Wrong way driver strikes Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817120507/https://www.abc15.com/news/regio... ,,,,,,2017-07-21
+32.0,2017.0,6/25/2017, USA , CA , Tesla strikes Camry ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817120506/https://www.nbcsandiego.com/news... ,,,,,,2017-06-25
+31.0,2017.0,6/10/2017, USA , HI , Unclear; see note at right ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20180502015310/http://www.khon2.com/news/local-... ," News report describes a speeding driver striking a Tesla; video footage and Copart photos of car show an unblemished Tesla missing a rear wheel, suggesting another of Tesla's characteristic ""snap off"" wheels ",,,,,2017-06-10
+30.0,2017.0,5/11/2017, USA , FL , Tesla into oncoming traffic ,1.0,,,1.0,,, - ,,,,,, https://www.companyowl.com/i/n/just-tesla-driver-loses-license-wreck-killed... ,, Bryant Gonzalez ,,,,2017-05-11
+29.0,2017.0,4/26/2017, Norway ,-, Tesla into oncoming traffic ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817120615/https://www.dt.no/nyheter/royken... ,,,,,,2017-04-26
+28.0,2017.0,3/13/2017, USA , CA , Tesla kills pedestrian ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817120645/http://thefoothillspaper.com/201... ,,,,,,2017-03-13
+27.0,2017.0,1/17/2017, Germany ,-, Driver died in pileup ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817120612/https://www.ln-online.de/lokales... ,,,,,,2017-01-17
+26.0,2016.0,12/20/2016, USA , CA , Tesla kills pedestrian ,1.0,,,,1.0,1.0, X ,,,,,, https://walterclark.com/blog/elderly-man-killed-palm-springs-pedestrian-col... ,, James Scott ,,,,2016-12-20
+25.0,2016.0,11/23/2016, USA , IL , Driver dead in Winnebago County ,1.0,1.0,,,,1.0, S ,,,,,, https://web.archive.org/web/20220817120614/https://medium.com/@MidwesternHe... ," In NHTSA-FARS database, CaseNum=964&StateNum=17&CaseYear=2016 ",,,,,2016-11-23
+24.0,2016.0,11/3/2016, USA , IN , Indianapolis fire ,2.0,1.0,1.0,,,2.0, - ,,,,,, https://web.archive.org/web/20220817120611/https://www.indystar.com/story/n... ,, Casey Speckman , Kevin McCarthy ,,,2016-11-03
+23.0,2016.0,10/10/2016, USA , NH , Pileup ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817120611/https://patch.com/new-hampshire/... ,,,,,,2016-10-10
+22.0,2016.0,10/7/2016, USA , CA , Tesla kills motorcyclist ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817120702/https://www.latimes.com/local/la... ,,,,,,2016-10-07
+21.0,2016.0,9/7/2016, Holland ,-, Drove into wooded ravine ,1.0,1.0,,,,1.0, - ,,,,,, https://archive.ph/wip/kco0E... ,,,,,,2016-09-07
+20.0,2016.0,9/1/2016, USA , FL , Motorcyclist rear ends Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817120817/https://www.local10.com/news/201... ,,,,,,2016-09-01
+19.0,2016.0,8/15/2016, USA , CA , Tesla rear ended ,1.0,,1.0,,,1.0, S ,,,,,, https://web.archive.org/web/20220817120829/https://electrek.co/2016/08/15/r... ,,,,,,2016-08-15
+18.0,2016.0,7/29/2016, USA , FL , Tesla kills pedestrian ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817120828/https://www.local10.com/traffic/... ,,,,,,2016-07-29
+17.0,2016.0,7/22/2016, USA , CA , Passat strikes Tesla ,1.0,,,1.0,,, S ,,,,,, https://web.archive.org/web/20220817120734/https://www.ojaivalleynews.com/?... ,,,,,,2016-07-22
+16.0,2016.0,6/8/2016, USA , HI , Nissan Altima wrong way into Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817120738/https://www.khon2.com/news/maui-... ,,,,,,2016-06-08
+15.0,2016.0,5/7/2016, USA , FL , Autopilot into 18 wheeler ,1.0,1.0,,,,1.0, - ,1.0,1.0,1.0,,, https://web.archive.org/web/20220817120738/https://www.nytimes.com/2016/07/... ,, Joshua Brown ,,,,2016-05-07
+14.0,2016.0,4/22/2016, USA , CA , Pedestrian killed in pileup ,1.0,,,,1.0,1.0, S ,,,,,, https://web.archive.org/web/20220817120736/https://www.ocregister.com/2016/... ,,,,,,2016-04-22
+13.0,2016.0,4/8/2016, USA , OH , Chevy Cobalt wrong way into Tesla ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20180813153941/https://www.nbc4i.com/local-news... ,,,,,,2016-04-08
+12.0,2016.0,1/20/2016, China ,-, AutoPilot into street sweeper ,1.0,1.0,,,,1.0, S ,1.0,1.0,1.0,,, https://web.archive.org/web/20220817120711/https://www.nytimes.com/2016/09/... ,, Gao Yaning ,,,,2016-01-20
+11.0,2015.0,12/28/2015, USA , TX , Sudden unintended acceleration into pool ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817120752/https://www.chron.com/houston/ar... ,,,,,,2015-12-28
+10.0,2015.0,12/22/2015, Canada ,-, Struck by dumptruck ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817120756/https://electrek.co/2015/12/22/m... ,,,,,,2015-12-22
+9.0,2015.0,11/18/2015, USA , CA , Tesla kills pedestrian ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817120754/https://patch.com/california/fre... ,,,,,,2015-11-18
+8.0,2015.0,6/22/2015, USA , CA , Tesla drives off cliff ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817120755/https://www.dailynews.com/2015/0... ,, Tim Devine ,,,,2015-06-22
+7.0,2015.0,1/22/2015, USA , CA , Tesla drives off cliff ,1.0,1.0,,,,1.0, S ,,,,,, https://web.archive.org/web/20220817120837/https://www.mercurynews.com/2015... ,, Peter Kleis ,,,,2015-01-22
+6.0,2014.0,12/30/2014, USA , CA , Tesla drives off cliff ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817120806/https://www.pressdemocrat.com/ar... ,, Louis Francis Thoelecke ,,,,2014-12-30
+5.0,2014.0,7/14/2014, USA , CA , Tesla kills motorcyclist ,1.0,,,1.0,,, - ,,,,,, https://web.archive.org/web/20220817120807/http://injurylawcentral.com/blog... ,,,,,,2014-07-14
+4.0,2014.0,7/4/2014, USA , CA , Thief crashes stolen Tesla ,1.0,1.0,,,,1.0, - ,,,,,, https://web.archive.org/web/20220817120839/https://www.theverge.com/2014/7/... ,, Joshua Slot ,,,,2014-07-04
+3.0,2014.0,7/4/2014, USA , CA , Tesla rear ends stopped car ,3.0,,,3.0,,, - ,,,,,, https://web.archive.org/web/20220412004559/https://insideevs.com/news/32293... ,,,,,,2014-07-04
+2.0,2013.0,11/2/2013, USA , CA , Tesla kills cyclist ,1.0,,,,1.0,1.0, - ,,,,,, https://web.archive.org/web/20220817121049/https://www.santacruzsentinel.co... ,,,,,,2013-11-02
+1.0,2013.0,4/2/2013, USA , CA , Tesla veers into opposite lane ,2.0,,,2.0,,, S ,,,,,, https://web.archive.org/web/20150425055520/http://articles.latimes.com/2013... ,, Alberto Casique-Salinas , Armando Garcia-Gonzales ,,,2013-04-02

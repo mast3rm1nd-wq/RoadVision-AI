@@ -1,0 +1,70 @@
+{
+  "train": {
+    "loss": 1.4191617686574052,
+    "accuracy": 0.5707317073170731,
+    "mean_iou": 0.05362969030563652
+  },
+  "validation": {
+    "loss": 1.376675009727478,
+    "accuracy": 0.5909090909090909,
+    "mean_iou": 0.058417080880396745
+  },
+  "test": {
+    "loss": 1.3485957384109497,
+    "accuracy": 0.5681818181818182,
+    "mean_iou": 0.053550420022061604
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.7899954196883412,
+      "val_loss": 1.9656317234039307,
+      "val_accuracy": 0.5909090909090909,
+      "val_mean_iou": 0.00990473848386583
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.4997107726771657,
+      "val_loss": 1.652735710144043,
+      "val_accuracy": 0.5909090909090909,
+      "val_mean_iou": 0.020866498816758394
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.3762059502485322,
+      "val_loss": 1.4737061262130737,
+      "val_accuracy": 0.5909090909090909,
+      "val_mean_iou": 0.0224378305349753
+    },
+    {
+      "epoch": 4,
+      "train_loss": 1.398994136438137,
+      "val_loss": 1.397505760192871,
+      "val_accuracy": 0.5909090909090909,
+      "val_mean_iou": 0.04033081533006308
+    },
+    {
+      "epoch": 5,
+      "train_loss": 1.3469518021839422,
+      "val_loss": 1.376675009727478,
+      "val_accuracy": 0.5909090909090909,
+      "val_mean_iou": 0.058417080880396745
+    }
+  ],
+  "summary": {
+    "n_images_zip": 5626,
+    "n_label_rows_total": 351549,
+    "n_label_rows_matching_images": 17967,
+    "n_images_with_labels": 5626,
+    "n_modeling_records": 293,
+    "classes": [
+      "articulated_truck",
+      "bus",
+      "car",
+      "motorized_vehicle",
+      "pickup_truck",
+      "single_unit_truck",
+      "work_van"
+    ]
+  }
+}

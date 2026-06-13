@@ -1,0 +1,10 @@
+{
+  "raw_rows": 307,
+  "usable_case_rows": 294,
+  "total_reported_deaths": 353.0,
+  "tesla_driver_death_events": 117,
+  "tesla_occupant_death_events": 0,
+  "cyclist_or_pedestrian_events": 44,
+  "other_vehicle_collision_events": 110,
+  "verified_autopilot_death_sum": 19.0
+}
